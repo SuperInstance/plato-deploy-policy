@@ -1,0 +1,5 @@
+[package]
+name = "plato-deploy-policy"
+version = "0.1.0"
+edition = "2021"
+description = "Tiered deployment policy — routes changes through Live/Monitored/Human-Gated tiers based on belief scores"
