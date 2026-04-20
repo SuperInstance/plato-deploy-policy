@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_deploy_policy/__init__.py
+src/plato_deploy_policy/policy.py
+src/plato_deploy_policy.egg-info/PKG-INFO
+src/plato_deploy_policy.egg-info/SOURCES.txt
+src/plato_deploy_policy.egg-info/dependency_links.txt
+src/plato_deploy_policy.egg-info/top_level.txt

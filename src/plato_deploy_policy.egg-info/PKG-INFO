@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-deploy-policy
+Version: 0.1.0
+Summary: Deploy policy — P0/P1/P2 deadband classification for fleet operations
+License: MIT
+Requires-Python: >=3.8
